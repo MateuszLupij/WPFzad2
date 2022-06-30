@@ -1,0 +1,15 @@
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\bin\Debug\WpfZad2.exe.config
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\bin\Debug\WpfZad2.exe
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\bin\Debug\WpfZad2.pdb
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\obj\Debug\WpfZad2.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\obj\Debug\MainWindow.g.cs
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\obj\Debug\App.g.cs
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\obj\Debug\WpfZad2_MarkupCompile.cache
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\obj\Debug\WpfZad2_MarkupCompile.lref
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\obj\Debug\MainWindow.baml
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\obj\Debug\WpfZad2.g.resources
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\obj\Debug\WpfZad2.Properties.Resources.resources
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\obj\Debug\WpfZad2.csproj.GenerateResource.cache
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\obj\Debug\WpfZad2.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\obj\Debug\WpfZad2.exe
+C:\Users\mateu\source\repos\WpfZad2\WpfZad2\obj\Debug\WpfZad2.pdb
